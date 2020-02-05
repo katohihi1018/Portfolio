@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+}
+img {
+	display: block;
+}
+a {
+	text-decoration: none;
+}
+ul li {
+	list-style-type: none;
+	color: #000000;
+}
+
+
+#headerInner {
+	background-image: url("images/mainVisual.jpg");
+	background-repeat: no-repeat;
+	height: 500px;
+	background-size: cover;
+}
+.gNavi {
+	color: #000000;
+	font-size:30px;
+}
+#headerInner {
+	width:1360px;
+	margin-left:258px;
+}
+main {
+	width:1360px;
+	margin-left:258px;
+}
+#intoroduce_site_sentence {
+	float:left;
+}
+#introduce_site_image1 {
+	float:right;
+}
+#works_logoBunner {
+	clear: both;
+}
+#introduce_logoBunner img {
+	float:left;
+}
+#contents_logoBunner {
+	margin-bottom: 50px;
+}
+#subTitle_Profille {
+	clear:both;
+}
+#titleProfille {
+		margin-top: 100px;
+}
+#introduce_profille {
+	margin-top: 30px;
+}
+#subTitle_Profille p {
+	text-align: center;
+}
+#titleSkill {
+	margin-top:50px;
+}
+.skillContents {
+	float:left;
+	text-align: center;
+	margin-left:50px;
+	margin-right:auto;
+}
